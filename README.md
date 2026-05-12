@@ -1,65 +1,111 @@
-# 👋 Olá, eu sou Emanoel Cavalcante
-
 <div align="center">
 
-## Desenvolvedor Backend em formação | Java • Spring Boot • APIs RESTful
+<img width="100%" src="./assets/banner-dark.png" alt="Dark cybersigilism banner" />
 
-Construindo projetos reais, estudando fundamentos com seriedade e evoluindo todos os dias como desenvolvedor.
+```txt
+⛧──────────────────────────────────────────────⛧
+        EMANOEL CAVALCANTE
+        BACKEND DEVELOPER IN PROGRESS
+⛧──────────────────────────────────────────────⛧
+```
+
+# 𝕰𝖒𝖆𝖓𝖔𝖊𝖑 𝕮𝖆𝖛𝖆𝖑𝖈𝖆𝖓𝖙𝖊
+
+### Java • Spring Boot • PostgreSQL • REST APIs
+
+```txt
+cold systems. clean architecture. buried noise.
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia\&size=24\&duration=3500\&pause=900\&color=E5E5E5\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer+in+Progress;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;Building+in+silence;Learning+through+the+noise)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020202,100:111111&height=2&section=header" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🜏 Sobre mim
 
-Sou um desenvolvedor em formação com foco principal em **backend**, estudando e criando projetos com **Java**, **Spring Boot**, **APIs RESTful**, **banco de dados** e boas práticas de organização de código.
+Sou um desenvolvedor backend em formação, focado em construir sistemas com **Java**, **Spring Boot**, **APIs RESTful**, **PostgreSQL** e arquitetura organizada.
 
-Atualmente venho desenvolvendo projetos reais para fortalecer meu portfólio, principalmente uma API para gerenciamento de delivery chamada **PitsDog API**, onde aplico conceitos como arquitetura em camadas, controllers, services, repositories, DTOs, entidades, banco de dados e versionamento com Git.
+Meu caminho na programação passa por projetos reais, estudo de fundamentos e construção de raciocínio. Não busco apenas fazer código funcionar: busco entender a estrutura interna do sistema, a regra de negócio, a separação de responsabilidades e a forma como cada camada se conecta.
 
-Além da programação, também estudo **matemática**, **física**, **filosofia** e fundamentos de lógica, buscando desenvolver uma base sólida para resolver problemas com mais clareza e profundidade.
+Atualmente meu principal projeto é a **PitsDog API**, uma aplicação backend para gerenciamento de delivery, produtos, categorias e pedidos.
 
-Meu objetivo é me tornar um desenvolvedor cada vez mais completo, capaz de construir sistemas úteis, bem organizados e preparados para crescer.
+Fora da programação, estudo matemática, física, filosofia e lógica. Gosto da ideia de construir conhecimento como se fosse uma arquitetura: camada por camada, sem pressa, sem atalho, com profundidade.
 
----
-
-## 🚀 Tecnologias e ferramentas
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-### Também estudo
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+```txt
+> learning through silence, failure, repetition and code.
+```
 
 ---
 
-## 📌 Projeto em destaque
+## 🕷️ Stack principal
+
+<div align="center">
+
+<img height="46" src="https://skillicons.dev/icons?i=java,spring,postgres,maven&theme=dark" alt="Java, Spring Boot, PostgreSQL, Maven" />
+
+<br><br>
+
+![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-050505?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-050505?style=for-the-badge\&logo=spring\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-050505?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-050505?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
+
+---
+
+## 𖤐 Também estudo
+
+<div align="center">
+
+<img height="46" src="https://skillicons.dev/icons?i=python,cs,docker,linux&theme=dark" alt="Python, C#, Docker, Linux" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge\&logo=python\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-050505?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge\&logo=linux\&logoColor=white)
+![Security](https://img.shields.io/badge/Security-050505?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+
+</div>
+
+```txt
+[ backend ] [ databases ] [ architecture ] [ logic ] [ security ]
+```
+
+---
+
+## ⛓️ Projeto em destaque
 
 # 🍔 PitsDog API
 
-API RESTful desenvolvida em **Java com Spring Boot** para gerenciamento de um sistema de delivery de hamburgueria.
+A **PitsDog API** é uma API RESTful desenvolvida em **Java com Spring Boot** para gerenciamento de um sistema de delivery.
 
-O projeto tem como objetivo conectar o site/cardápio do cliente com um painel administrativo, permitindo que pedidos sejam criados, salvos no banco de dados e gerenciados pelo estabelecimento.
+O projeto foi pensado para conectar o site/cardápio de uma hamburgueria com um painel administrativo, permitindo que pedidos sejam criados, armazenados no banco de dados e gerenciados pelo estabelecimento.
 
-### Funcionalidades principais
+```txt
+client order
+   ↓
+REST API
+   ↓
+business rules
+   ↓
+database persistence
+   ↓
+admin panel integration
+```
+
+### Funcionalidades
 
 * Cadastro de categorias
 * Listagem de categorias
@@ -72,124 +118,104 @@ O projeto tem como objetivo conectar o site/cardápio do cliente com um painel a
 * Criação de pedidos
 * Listagem de pedidos
 * Atualização de status de pedidos
-* Estrutura pensada para integração futura com painel administrativo
-* Possibilidade futura de integração com WhatsApp e gateway de pagamento
+* Estrutura preparada para painel administrativo
+* Base para futuras integrações com WhatsApp e gateway de pagamento
 
 ### Conceitos aplicados
 
-* Arquitetura em camadas
-* Controllers
-* Services
-* Repositories
-* DTOs
-* Entidades JPA
-* Validações de regras de negócio
-* Integração com banco de dados
-* Organização por domínio
-* Testes de rotas com Postman
-* Versionamento com Git e GitHub
-
-### Tecnologias usadas
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+```txt
+controllers
+services
+repositories
+DTOs
+entities
+business rules
+REST endpoints
+PostgreSQL persistence
+Git versioning
+```
 
 🔗 **Repositório:** [PitsDog API](https://github.com/EmanoelCavalcante/pitsdog-api)
 
 ---
 
-## 🧠 O que estou estudando atualmente
+## 🩸 Estudos atuais
 
-Atualmente estou focando em fortalecer minha base como desenvolvedor backend, estudando:
-
-* Java moderno
-* Programação Orientada a Objetos
-* Spring Boot
-* APIs RESTful
-* Banco de dados relacional
-* Git e GitHub
-* Arquitetura de software
-* Boas práticas de código
-* Integração entre backend e frontend
-* Lógica de programação
-* Matemática para desenvolvimento de raciocínio
-
-Também tenho interesse em áreas como **segurança da informação**, **sistemas financeiros**, **aplicações mobile** e desenvolvimento de sistemas mais completos e escaláveis.
-
----
-
-## 📚 Minha mentalidade de estudos
-
-Acredito que programar não é apenas escrever código, mas entender problemas, organizar ideias e construir soluções de forma clara.
-
-Por isso, procuro estudar os fundamentos por trás das tecnologias, não apenas copiar soluções prontas. Meu foco é desenvolver raciocínio, autonomia e capacidade de resolver problemas reais.
-
-Atualmente busco equilibrar:
-
-* Prática com projetos reais
-* Estudo de fundamentos
-* Revisão de código
-* Organização de portfólio
-* Evolução profissional contínua
-
----
-
-## 🛠️ Áreas em que estou evoluindo
+Atualmente estou fortalecendo minha base em:
 
 ```txt
-Backend Development
 Java
 Spring Boot
-API REST
-Banco de Dados
-Arquitetura em Camadas
+Programação Orientada a Objetos
+APIs RESTful
+PostgreSQL
+Arquitetura em camadas
 Git e GitHub
-Integração Backend + Frontend
-Boas práticas de código
+Integração backend + frontend
+Lógica de programação
+Matemática aplicada ao raciocínio
+Segurança da informação
+```
+
+Meu foco é sair do nível de apenas seguir tutoriais e entrar no nível de entender, construir, revisar e evoluir sistemas reais.
+
+---
+
+## ☾ Mentalidade
+
+```txt
+code is structure.
+structure is discipline.
+discipline survives motivation.
+```
+
+Programar, para mim, é uma forma de organizar caos.
+
+Um sistema bem feito precisa ter clareza, intenção e responsabilidade em cada parte. Por isso estudo não apenas ferramentas, mas também fundamentos: lógica, arquitetura, matemática, leitura de código e resolução de problemas.
+
+A estética pode ser sombria, mas o código precisa ser limpo.
+
+---
+
+## 🕳️ Áreas em evolução
+
+```txt
+┌──────────────────────────────────────┐
+│ Backend Development                  │
+│ Java                                 │
+│ Spring Boot                          │
+│ REST APIs                            │
+│ PostgreSQL                           │
+│ Software Architecture                │
+│ Git / GitHub                         │
+│ Security Fundamentals                │
+│ Problem Solving                      │
+└──────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📡 Contato
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanoelCavalcante&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/EmanoelCavalcante">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="COLOQUE_SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/emanoeldev">
+  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:emanoelcavalcante067@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=EmanoelCavalcante&label=profile%20views&color=050505&style=flat" alt="Profile views" />
 
 </div>
 
 ---
-
-## 🧩 Objetivos atuais
-
-* Evoluir como desenvolvedor backend Java
-* Construir projetos reais para o portfólio
-* Melhorar a organização dos meus repositórios
-* Aprender mais sobre arquitetura de software
-* Criar APIs mais completas e bem documentadas
-* Fortalecer minha base em lógica, matemática e resolução de problemas
-* Me preparar para oportunidades profissionais na área de tecnologia
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EmanoelCavalcante)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/emanoel-c-672139387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emanoelcavalcante067@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emanoeldev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emnoeltzx)
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Em constante evolução, construindo projetos reais e aprendendo todos os dias.
-
-</div>
