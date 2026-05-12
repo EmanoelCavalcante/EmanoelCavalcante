@@ -1,21 +1,26 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner-dark.png" alt="Dark cybersigilism banner" />
+<div style="border: 1px solid #333; padding: 20px; border-radius: 8px; background-color: #050505;">
 
-```txt
-⛧──────────────────────────────────────────────⛧
-        EMANOEL CAVALCANTE
-        BACKEND DEVELOPER IN PROGRESS
-⛧──────────────────────────────────────────────⛧
-```
+<h1>𝕰𝖒𝖆𝖓𝖔𝖊𝖑 𝕮𝖆𝖛𝖆𝖑𝖈𝖆𝖓𝖙𝖊</h1>
 
-# 𝕰𝖒𝖆𝖓𝖔𝖊𝖑 𝕮𝖆𝖛𝖆𝖑𝖈𝖆𝖓𝖙𝖊
+<h3>𝕭𝖆𝖈𝖐𝖊𝖓𝖉 • 𝕵𝖆𝖛𝖆 • 𝕾𝖕𝖗𝖎𝖓𝖌 • 𝕻𝖔𝖘𝖙𝖌𝖗𝖊𝕾𝕼𝕷</h3>
 
-### Java • Spring Boot • PostgreSQL • REST APIs
+<br>
 
-```txt
-cold systems. clean architecture. buried noise.
-```
+<img height="50" src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,postman&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-050505?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-050505?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-050505?style=for-the-badge&logo=insomnia&logoColor=white" />
+
+</div>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia\&size=24\&duration=3500\&pause=900\&color=E5E5E5\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer+in+Progress;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;Building+in+silence;Learning+through+the+noise)](https://git.io/typing-svg)
 
@@ -40,6 +45,7 @@ Fora da programação, estudo matemática, física, filosofia e lógica. Gosto d
 ```
 
 ---
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## 🕷️ Stack principal
 
@@ -62,6 +68,7 @@ Fora da programação, estudo matemática, física, filosofia e lógica. Gosto d
 </div>
 
 ---
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## 𖤐 Também estudo
 
@@ -84,6 +91,7 @@ Fora da programação, estudo matemática, física, filosofia e lógica. Gosto d
 ```
 
 ---
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## ⛓️ Projeto em destaque
 
@@ -121,6 +129,8 @@ admin panel integration
 * Estrutura preparada para painel administrativo
 * Base para futuras integrações com WhatsApp e gateway de pagamento
 
+<img width="100%" src="./divider.png" alt="Divider" />
+
 ### Conceitos aplicados
 
 ```txt
@@ -135,9 +145,13 @@ PostgreSQL persistence
 Git versioning
 ```
 
+<img width="100%" src="./divider.png" alt="Divider" />
+
 🔗 **Repositório:** [PitsDog API](https://github.com/EmanoelCavalcante/pitsdog-api)
 
 ---
+
+<img width="100%" src="./divider.png" alt="Divider" /> 
 
 ## 🩸 Estudos atuais
 
@@ -160,6 +174,7 @@ Segurança da informação
 Meu foco é sair do nível de apenas seguir tutoriais e entrar no nível de entender, construir, revisar e evoluir sistemas reais.
 
 ---
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## ☾ Mentalidade
 
@@ -176,6 +191,8 @@ Um sistema bem feito precisa ter clareza, intenção e responsabilidade em cada 
 A estética pode ser sombria, mas o código precisa ser limpo.
 
 ---
+
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## 🕳️ Áreas em evolução
 
@@ -194,6 +211,7 @@ A estética pode ser sombria, mas o código precisa ser limpo.
 ```
 
 ---
+<img width="100%" src="./divider.png" alt="Divider" />
 
 ## 📡 Contato
 
