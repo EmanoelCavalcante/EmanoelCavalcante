@@ -157,9 +157,7 @@ Boas práticas de código
 
 <div align="center">
 
-![Emanoel GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanoelCavalcante\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelCavalcante\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanoelCavalcante&theme=tokyonight&hide_border=true"/>
 
 </div>
 
