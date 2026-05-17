@@ -220,7 +220,7 @@ A estética pode ser sombria, mas o código precisa ser limpo.
 <a href="https://github.com/EmanoelCavalcante">
   <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="COLOQUE_SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/emanoel-c-672139387/">
   <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/emanoeldev">
